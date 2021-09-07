@@ -5,7 +5,8 @@ Google Chrome Command Line Tool to convert html to pdf.
 
 # Prerequisite
 
- - Google Chrome (Yes! You can also install it your remote server)
+ - Linux
+ - Google Chrome
 
 ## Examples
 
@@ -16,3 +17,7 @@ URL:
 Local File:
 	
     ./html2pdf file:///home/**YOUR_USERNAME**/www/html2pdf/page.html page.pdf
+    
+# Download
+
+[https://github.com/fsilva1985/html2pdf/releases](https://github.com/fsilva1985/html2pdf/releases)
