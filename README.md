@@ -5,7 +5,6 @@ Google Chrome Command Line Tool to convert html to pdf.
 
 ##  Prerequisite
 
- - Linux
  - Google Chrome
 
 ##  How to use
